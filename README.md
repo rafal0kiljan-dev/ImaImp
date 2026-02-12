@@ -1,6 +1,10 @@
 # ImaImp
 A web application for upscaling and colorizing photos with AI.
 
+
+
+
+
 > [!WARNING]
 > - ⛔ 🚨 In progress, not finished yet 🚨 ⛔
 > - ⛔ 🚨 Working only on Windows  🚨 ⛔
